@@ -1,0 +1,10 @@
+timestamp,model,question,trial,status,elapsed_s,prompt_tokens,output_tokens,thoughts_tokens,output_tok_per_s,error
+2026-10-26T14:57:30,gemini-3.8-flash,short,1,503,2.666,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-26T14:57:39,gemini-3.8-flash,short,2,503,8.525,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-26T14:57:53,gemini-3.8-flash,short,3,503,3.622,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-26T14:58:03,gemini-3.8-flash,long_out,1,503,4.333,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-26T14:58:13,gemini-3.8-flash,long_out,2,timeout,120.23,,,,,ReadTimeout: The read operation timed out
+2026-10-26T15:00:19,gemini-3.8-flash,long_out,3,504,119.209,,,,,Deadline expired before operation could complete.
+2026-10-26T15:02:25,gemini-3.8-flash,long_in,1,504,119.665,,,,,Deadline expired before operation could complete.
+2026-10-26T15:04:30,gemini-3.8-flash,long_in,2,504,119.142,,,,,Deadline expired before operation could complete.
+2026-10-26T15:06:35,gemini-3.8-flash,long_in,3,504,118.262,,,,,Deadline expired before operation could complete.

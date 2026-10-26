@@ -1,0 +1,11 @@
+timestamp,model,question,trial,status,elapsed_s,prompt_tokens,output_tokens,thoughts_tokens,output_tok_per_s,error
+2026-10-26T15:23:31,gemini-3.5-flash-lite,short,1,200,1.237,14,50,0,40.4,
+2026-10-26T15:23:32,gemini-3.5-flash-lite,short,2,200,0.915,14,48,0,52.5,
+2026-10-26T15:23:33,gemini-3.5-flash-lite,short,3,200,3.027,14,55,0,18.2,
+2026-10-26T15:23:36,gemini-3.5-flash-lite,short,4,200,1.185,14,56,0,47.2,
+2026-10-26T15:23:37,gemini-3.5-flash-lite,short,5,200,0.858,14,49,0,57.1,
+2026-10-26T15:23:38,gemini-3.5-flash-lite,short,6,200,1.234,14,49,0,39.7,
+2026-10-26T15:23:39,gemini-3.5-flash-lite,short,7,200,1.089,14,54,0,49.6,
+2026-10-26T15:23:41,gemini-3.5-flash-lite,short,8,200,0.856,14,52,0,60.8,
+2026-10-26T15:23:41,gemini-3.5-flash-lite,short,9,200,0.85,14,54,0,63.6,
+2026-10-26T15:23:42,gemini-3.5-flash-lite,short,10,200,1.299,14,48,0,37.0,
