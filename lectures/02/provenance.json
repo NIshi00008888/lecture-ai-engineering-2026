@@ -1,0 +1,29 @@
+{
+  "recorded_at_utc": "2026-11-02T03:22:55.585619+00:00",
+  "operator": "Codex via Google Colab CLI on the learner account",
+  "lecturer_reference_results_used": false,
+  "course_commit": "fae899a409e2c99feee9d44a3789f936f5fc64ee",
+  "course_notebook": "notebooks/lora_format_tuning.ipynb",
+  "course_code_cells_modified": false,
+  "python_version": "3.13.16",
+  "gpu": "Tesla T4, 15360 MiB",
+  "versions": {
+    "transformers": "5.18.0",
+    "peft": "0.21.1",
+    "trl": "1.14.2",
+    "accelerate": "1.15.0",
+    "datasets": "5.1.0",
+    "torch": "2.11.0+cu130"
+  },
+  "dataset_sizes": {
+    "train": 14,
+    "valid": 7,
+    "test": 21
+  },
+  "evaluation": {
+    "same_questions_and_generation_settings": true,
+    "quantization": "none",
+    "base_weight_dtype": "torch.float32"
+  },
+  "learner_fork_main_commit": "470e0bd2bf63338aff16235af4cb74c22193ca41"
+}
